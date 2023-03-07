@@ -1,8 +1,1 @@
-<html>
-    <head>
-        <h1>Hello, i'm Wesley Monteiro and i am a software developer</h1>
-    </head>
-    <body>
-        
-    </body>
-</html>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyMAraujo)](https://github.com/anuraghazra/github-readme-stats)
