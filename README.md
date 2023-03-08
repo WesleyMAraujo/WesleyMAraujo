@@ -25,4 +25,4 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
             target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/WesleyMAraujo/WesleyMAruajo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WesleyMAaraujo/WesleyMAraujo/blob/output/github-contribution-grid-snake.svg)
