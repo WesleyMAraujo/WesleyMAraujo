@@ -1,4 +1,4 @@
-##Hi, my name is Wesley and I'm a programmer and student.
+## Hi, my name is Wesley and I'm a programmer and student.
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=WesleyMAraujo&show_icons=true&theme=radical)
 [![Top
@@ -15,7 +15,8 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-##<div>
+    ##
+<div>
     <a href="https://www.instagram.com/wesleymonteirodearaujo/" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
