@@ -5,10 +5,10 @@ stats](https://github-readme-stats.vercel.app/api?username=WesleyMAraujo&show_ic
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAraujo&show_icons=true&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
     <img align="center" alt="wes-c" height="30" width="40"
-        src="https://github.com/WesleyMAraujo/WesleyMAraujo/blob/main/icones/css3-icon.png">
+        src="https://github.com/WesleyMAraujo/WesleyMAraujo/blob/main/icones/c-icon.svg">
     
     <img align="center" alt="wes-portugol" height="30" width="40"
-        src="https://github.com/WesleyMAraujo/WesleyMAraujo/blob/main/icones/portugol-icon.png">
+        src="https://github.com/WesleyMAraujo/WesleyMAraujo/blob/main/icones/portugol-icon.svg">
     
     <img align="center" alt="Rafa-HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
