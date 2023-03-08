@@ -14,7 +14,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-##
+<hr>
 <div>
     <a href="https://www.instagram.com/wesleymonteirodearaujo/" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
