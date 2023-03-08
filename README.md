@@ -11,9 +11,9 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
     
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
-    <img align="center" alt="wes-c" height="30" width="40" src="https://drive.google.com/file/d/1-0fLiDUD-3kKpkKByPFJCEqw3CV_sugM/view?usp=share_link">
+    <img align="center" alt="wes-c" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw1KNfEc_UWY1B7D8UTOWLQ5&ust=1678328201373000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjw2POhy_0CFQAAAAAdAAAAABAE">
     
-    <img align="center" alt="wes-portugol" height="30" width="40" src="https://drive.google.com/file/d/1-BFQnj7wIojsr2K1xA4YlMOotjiQQchM/view?usp=share_link">
+    <img align="center" alt="wes-portugol" height="30" width="40" src="![image](https://user-images.githubusercontent.com/90140946/223602269-eada7ad1-6ad8-4b2b-ac2e-2bc987610cdc.png)">
     
 </div>
 <hr>
