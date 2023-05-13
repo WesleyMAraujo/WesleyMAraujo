@@ -10,6 +10,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wesley-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Wesley-C" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
   
 </div>
 <hr>
