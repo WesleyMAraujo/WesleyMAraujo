@@ -10,7 +10,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
   <img align="center" alt="Wesley-C" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Wesley-C" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
   <img align="center" alt="Wesley-C" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <img align="center" alt="Wesley-VUE" width="40" src=" https://logosdownload.com/logo/vue.js-logo-big.png">
+  <img align="center" alt="Wesley-VUE" width="40" src="https://logosdownload.com/logo/vue.js-logo-big.png">
 
 
 
