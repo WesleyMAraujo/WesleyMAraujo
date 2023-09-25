@@ -12,7 +12,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
   <img align="center" alt="Wesley-C" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="center" alt="Wesley-VUE" width="40" src="https://logosdownload.com/logo/vue.js-logo-big.png">
   <img align="center" alt="Wesley-LARAVEL" width="40" src="https://logosdownload.com/logo/laravel-logo-1024.png">
-  <img align="center" alt="Wesley-bootstrap" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png">
+  <img align="center" alt="Wesley-bootstrap" width="40" src="https://logospng.org/download/bootstrap/bootstrap-1024.png">
 
 
   
