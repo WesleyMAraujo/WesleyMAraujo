@@ -26,7 +26,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
     <a href="https://www.linkedin.com/in/wesley-monteiro-de-araujo-427a91230/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/wesley-monteiro-de-araujo-427a91230/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://gitlab.com/wesleymonteirodearaujo" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
     </a>
 </div>
