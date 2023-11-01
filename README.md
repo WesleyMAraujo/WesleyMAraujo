@@ -17,16 +17,16 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
 </div>
 <hr>
 <div>
-    <a href="https://www.instagram.com/wesleymonteirodearaujo/" target="_blank" text-decoration: none;>
+    <a href="https://www.instagram.com/wesleymonteirodearaujo/" target="_blank" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="28px">
     </a>
-    <a href="mailto:wesleymonteirodearaujo@gmail.com" target="_blank" text-decoration: none;>
+    <a href="mailto:wesleymonteirodearaujo@gmail.com" target="_blank" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="28px">
     </a>
-    <a href="https://www.linkedin.com/in/wesley-monteiro-de-araujo-427a91230/" target="_blank" text-decoration: none;>
+    <a href="https://www.linkedin.com/in/wesley-monteiro-de-araujo-427a91230/" target="_blank" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="28px">
     </a>
-    <a href="https://gitlab.com/wesleymonteirodearaujo" target="_blank" text-decoration: none;>
+    <a href="https://gitlab.com/wesleymonteirodearaujo" target="_blank" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="28px">
     </a>
 
