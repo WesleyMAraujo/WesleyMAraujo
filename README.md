@@ -30,9 +30,3 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="28px">
     </a>
 </div>
-
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
