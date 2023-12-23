@@ -29,7 +29,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAra
     <a href="https://gitlab.com/wesleymonteirodearaujo" target="_blank" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="28px">
     </a>
-
-
-  
 </div>
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
