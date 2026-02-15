@@ -1,32 +1,115 @@
-## Hi, my name is Wesley and I'm a programmer and student.
-![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=WesleyMAraujo&show_icons=true&theme=radical)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMAraujo&show_icons=true&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<svg width="850" height="450" viewBox="0 0 850 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes orbit {
+      from { transform: rotate(0deg) translateX(10px) rotate(0deg); }
+      to   { transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+    }
+    
+    .node { 
+      animation: orbit 10s linear infinite; 
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    
+    .label { 
+      fill: #e2e8f0; 
+      font-family: 'Segoe UI', Tahoma, sans-serif; 
+      font-size: 13px; 
+      font-weight: 600;
+    }
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wesley-VUE" width="40" src="https://logosdownload.com/logo/vue.js-logo-big.png">
-  <img align="center" alt="Wesley-bootstrap" width="40" src="https://logospng.org/download/bootstrap/bootstrap-1024.png">
-  <img align="center" alt="Wesley-PHP" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-  <img align="center" alt="Wesley-LARAVEL" width="40" src="https://logosdownload.com/logo/laravel-logo-1024.png">
-  <img align="center" alt="Wesley-MYSQL" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <img align="center" alt="Wesley-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wesley-C" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Wesley-JS" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
-</div>
-<hr>
-<div>
-    <a href="https://www.instagram.com/wesleymonteirodearaujo/" target="_blank" style="text-decoration: none;">
-      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="28px">
-    </a>
-    <a href="mailto:wesleymonteirodearaujo@gmail.com" target="_blank" style="text-decoration: none;">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="28px">
-    </a>
-    <a href="https://www.linkedin.com/in/wesley-monteiro-de-araujo-427a91230/" target="_blank" style="text-decoration: none;">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="28px">
-    </a>
-    <a href="https://gitlab.com/wesleymonteirodearaujo" target="_blank" style="text-decoration: none;">
-      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" height="28px">
-    </a>
-</div>
+    .icon { width: 24px; height: 24px; }
+    
+    /* Variações de tempo para movimento natural */
+    .d1 { animation-duration: 12s; }
+    .d2 { animation-duration: 15s; animation-direction: reverse; }
+    .d3 { animation-duration: 18s; }
+    
+    .line { stroke: rgba(100, 255, 218, 0.1); stroke-width: 1; }
+  </style>
+
+  <rect width="850" height="450" fill="#0d1117" rx="10"/>
+
+  <g class="lines">
+    <line class="line" x1="150" y1="100" x2="320" y2="80" />
+    <line class="line" x1="320" y1="80" x2="500" y2="120" />
+    <line class="line" x1="500" y1="120" x2="700" y2="100" />
+    <line class="line" x1="150" y1="100" x2="200" y2="280" />
+    <line class="line" x1="200" y1="280" x2="420" y2="350" />
+    <line class="line" x1="420" y1="350" x2="650" y2="280" />
+    <line class="line" x1="650" y1="280" x2="750" y2="180" />
+  </g>
+
+  <g class="node d1">
+    <foreignObject x="130" y="80" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/>
+        <span style="color: #777BB4; font-family: sans-serif; font-size: 14px; font-weight: bold;">PHP</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d2">
+    <foreignObject x="300" y="60" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="20" height="20"/>
+        <span style="color: #FF2D20; font-family: sans-serif; font-size: 14px; font-weight: bold;">Laravel</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d3">
+    <foreignObject x="480" y="100" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20"/>
+        <span style="color: #4FC08D; font-family: sans-serif; font-size: 14px; font-weight: bold;">Vue.js</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d1">
+    <foreignObject x="180" y="260" width="110" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
+        <span style="color: #F7DF1E; font-family: sans-serif; font-size: 14px; font-weight: bold;">JavaScript</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d2">
+    <foreignObject x="630" y="260" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>
+        <span style="color: #3776AB; font-family: sans-serif; font-size: 14px; font-weight: bold;">Python</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d3">
+    <foreignObject x="400" y="330" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>
+        <span style="color: #00599C; font-family: sans-serif; font-size: 14px; font-weight: bold;">C++</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d1">
+    <foreignObject x="680" y="160" width="100" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/>
+        <span style="color: #4479A1; font-family: sans-serif; font-size: 14px; font-weight: bold;">MySQL</span>
+      </div>
+    </foreignObject>
+  </g>
+
+  <g class="node d2">
+    <foreignObject x="350" y="180" width="110" height="40">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20"/>
+        <span style="color: #E10098; font-family: sans-serif; font-size: 14px; font-weight: bold;">GraphQL</span>
+      </div>
+    </foreignObject>
+  </g>
+
+</svg>
